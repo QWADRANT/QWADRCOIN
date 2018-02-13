@@ -1,0 +1,9 @@
+Building Qwadrcoin
+
+See doc/readme-qt.rst for instructions on building Qwadrcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Qwadrcoin.
+
+See doc/build-*.txt for instructions on building Qwadrcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of Qwadrcoin.
